@@ -1,0 +1,10 @@
+ 
+
+sjydevildaum.github.io
+
+: 열 편집모드
+shift+alt 
+
+C:\TIS230108\Programs\VSCode-win32-x64-1.73.0-insider\data\user-data\User
+
+https://github.com/choikyusook/test
